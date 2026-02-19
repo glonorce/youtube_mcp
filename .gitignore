@@ -1,0 +1,45 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Coverage output
+.coverage
+.coverage.*
+htmlcov/
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+.venv
+
+# VSCode workspace
+*.code-workspace
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# PyPI credentials
+.pypirc
+
+# CLAUDE stuff
+CLAUDE.md
+.claude/
+# Docs
+# Keep docs/ tracked in the repository.
+
+uv.lock
+
